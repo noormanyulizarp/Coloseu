@@ -1,0 +1,20 @@
+# .gitignore
+
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Poetry-specific files
+poetry.lock
+pyproject.toml
+
+# Replit-specific files
+.replit
+
+# Environment-specific files
+.env
+
+# User-specific files
+*~
